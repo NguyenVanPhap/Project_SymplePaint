@@ -1,0 +1,47 @@
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\bin\Debug\SymplePaint.exe.config
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\bin\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\bin\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\obj\Debug\SymplePaint.csprojAssemblyReference.cache
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\obj\Debug\SymplePaint.Form1.resources
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\obj\Debug\SymplePaint.Properties.Resources.resources
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\obj\Debug\SymplePaint.csproj.GenerateResource.cache
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\obj\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\Tuan3\SymplePaint\SymplePaint\obj\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\bin\Debug\SymplePaint.exe.config
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\bin\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\bin\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\obj\Debug\SymplePaint.csprojAssemblyReference.cache
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\obj\Debug\SymplePaint.Form1.resources
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\obj\Debug\SymplePaint.Properties.Resources.resources
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\obj\Debug\SymplePaint.csproj.GenerateResource.cache
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\obj\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SymplePaint\SymplePaint\obj\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\bin\Debug\SymplePaint.exe.config
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\bin\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\bin\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.csprojAssemblyReference.cache
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.Form1.resources
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.Properties.Resources.resources
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.csproj.GenerateResource.cache
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SymplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\bin\Debug\SymplePaint.exe.config
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\bin\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\bin\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\obj\Debug\SymplePaint.csprojAssemblyReference.cache
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\obj\Debug\SymplePaint.Form1.resources
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\obj\Debug\SymplePaint.Properties.Resources.resources
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\obj\Debug\SymplePaint.csproj.GenerateResource.cache
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\obj\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\obj\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SimplePaint 1\SymplePaint\obj\Debug\SymplePaint.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\obj\Debug\SymplePaint.csprojAssemblyReference.cache
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\obj\Debug\SymplePaint.Form1.resources
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\obj\Debug\SymplePaint.Properties.Resources.resources
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\obj\Debug\SymplePaint.csproj.GenerateResource.cache
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\obj\Debug\SymplePaint.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\obj\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\obj\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\bin\Debug\SymplePaint.exe.config
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\bin\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SimplePaint 1 - Copy\SymplePaint\bin\Debug\SymplePaint.pdb

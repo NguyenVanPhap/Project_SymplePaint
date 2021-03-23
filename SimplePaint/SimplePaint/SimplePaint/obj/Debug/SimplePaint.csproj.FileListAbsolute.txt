@@ -1,0 +1,30 @@
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\bin\Debug\SymplePaint.exe.config
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\bin\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\bin\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\obj\Debug\SimplePaint.csprojAssemblyReference.cache
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.Form1.resources
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.Properties.Resources.resources
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SimplePaint - Copy\SymplePaint\obj\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\bin\Debug\SymplePaint.exe.config
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\bin\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\bin\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\obj\Debug\SimplePaint.csprojAssemblyReference.cache
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\obj\Debug\SymplePaint.Form1.resources
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\obj\Debug\SymplePaint.Properties.Resources.resources
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\obj\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\SimplePaint\SymplePaint\obj\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\bin\Debug\SymplePaint.exe.config
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\bin\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\bin\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csprojAssemblyReference.cache
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\obj\Debug\SymplePaint.Properties.Resources.resources
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\obj\Debug\SymplePaint.exe
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\obj\Debug\SymplePaint.pdb
+D:\LAPTRINHWINDOWN\Nguyễn Văn Pháp_18110333_Đồ án giữa kì\SimplePaint\SimplePaint\SimplePaint\obj\Debug\SymplePaint.SimplePaint.resources

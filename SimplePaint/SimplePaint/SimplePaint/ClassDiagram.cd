@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SymplePaint.clsCircle">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAQAAAAAAAAAAAAADAAEAAAA=</HashCode>
+      <FileName>clsCircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.clsCurve">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAggAAAAAAAQAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>clsCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.clsDrawObject">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAIACEggAQAAABQAAAAMQAACAgAACAAEAQAA=</HashCode>
+      <FileName>clsDrawObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.clsEllipse">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAQAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>clsEllipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.clsLine">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAQAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>clsLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.clsPolygon">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAIAAAgAAAAAAAQAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>clsPolygon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.clsRectangle">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAQAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>clsRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.clsSquare">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAQAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>clsSquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.DoubleBufferPanel">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DoubleBufferPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.Form1">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QkAYDEkGonMIZP2CISHTKAEGdUlACCABgCgCASCEIyY=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.Group">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIECAAAAIAAAgAACAAAAQQAACAAAAAAAEACAAEAAAA=</HashCode>
+      <FileName>Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.Program" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.Properties.Resources" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwABAASAQAADAQCEgYDFAAUCRAggAAgEAQBCAINEIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymplePaint.Properties.Settings" Collapsed="true">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

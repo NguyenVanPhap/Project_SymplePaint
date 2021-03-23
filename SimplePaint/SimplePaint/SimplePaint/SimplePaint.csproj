@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A90919A-6933-4149-A5E4-600D1F2A5B47}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SymplePaint</RootNamespace>
+    <AssemblyName>SymplePaint</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsCircle.cs" />
+    <Compile Include="clsDrawObject.cs" />
+    <Compile Include="clsEllipse.cs" />
+    <Compile Include="clsLine.cs" />
+    <Compile Include="clsPolygon.cs" />
+    <Compile Include="clsRectangle.cs" />
+    <Compile Include="clsSquare.cs" />
+    <Compile Include="clsCurve.cs" />
+    <Compile Include="DoubleBufferPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SimplePaint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimplePaint.Designer.cs">
+      <DependentUpon>SimplePaint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Group.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="SimplePaint.resx">
+      <DependentUpon>SimplePaint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\pngtree-blue-hand-drawn-cartoon-round-background-png-image_3675739.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Cursor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Cut.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Ellipse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Eraser.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Line.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Loca.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Location.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\LucGiac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\MoreColor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\MuiTen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\MuiTenLeft.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Paint.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Pen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Rectangle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\TamGiac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Text.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Thoi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\Undo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\pngtree-blue-tech-square-background-image_274987.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resouce\LVktLcI.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
